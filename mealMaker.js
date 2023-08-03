@@ -22,6 +22,6 @@ const menu =  {
   }
 
 };
-menu.meal = 'pasta'
+menu.meal = 'Pasta'
 menu.price = 20
 console.log(menu.todaysSpecial)
